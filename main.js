@@ -11,9 +11,9 @@ const getActiveEmployees = (users) => {
 };
 
 const EMPLOYEES_LIST = [
-  { id: 1, name: "Alin", age: 25, isActive: false },
-  { id: 2, name: "Amina", age: 30, isActive: true },
-  { id: 3, name: "Bek", age: 16, isActive: false },
+  { id: 1, name: "Alin", age: 29, isActive: false },
+  { id: 2, name: "Amina", age: 55, isActive: true },
+  { id: 3, name: "Bek", age: 36, isActive: false },
   { id: 4, name: "Syrgaim", age: 19, isActive: true }
 ];
 
